@@ -2,7 +2,7 @@
 
 # 全局安装
 
-## npm i create-sui
+## npm i create-sui -g
 
 # 使用
 
