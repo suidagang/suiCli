@@ -15,14 +15,6 @@
     "name": "suigang",
     "email": "244153653@qq.com"
   },
-  "files": [
-    "config/",
-    "utils/",
-    "cli.js",
-    "index.js",
-    "package.json",
-    "readme.md"
-  ],
   "license": "ISC",
   "devDependencies": {
     "@types/gulp": "^4.0.13",
