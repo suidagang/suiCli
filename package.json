@@ -4,6 +4,9 @@
   "description": "",
   "type": "module",
   "main": "index.js",
+  "scripts": {
+    "publish:createSuiCli": "gulp -f publish/index.js"
+  },
   "keywords": [
     "suiCli",
     "脚手架"
@@ -22,13 +25,16 @@
   ],
   "license": "ISC",
   "devDependencies": {
+    "@types/gulp": "^4.0.13",
     "chalk": "^5.3.0",
     "command-line-args": "^5.2.1",
     "command-line-usage": "^7.0.1",
     "download-git-repo": "^3.0.2",
     "gulp": "^4.0.2",
     "ora": "^7.0.1",
-    "prompts": "^2.4.2"
+    "prompts": "^2.4.2",
+    "release-it": "^16.1.5",
+    "sucrase": "^3.34.0"
   },
   "repository": {
     "type": "git",
