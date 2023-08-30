@@ -1,6 +1,6 @@
 {
   "name": "create-sui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "type": "module",
   "bin": "index.js",
