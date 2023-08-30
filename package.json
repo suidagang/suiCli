@@ -16,7 +16,7 @@
     "email": "244153653@qq.com"
   },
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@types/gulp": "^4.0.13",
     "chalk": "^5.3.0",
     "command-line-args": "^5.2.1",
